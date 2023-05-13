@@ -1,9 +1,8 @@
-# tareas_aprendizaje_maquina
-Repositorio con las tareas de INF398
+# Repositorio de tareas INF398, primer semestre 2023
+
+Grupo: Start up 2: más Start up que nunca
 
 Integrantes:
-1. Amanda
-2. Bruno
-3. Javier
-
-Se recomienda activar entornos virtuales y instalar lo que esta en requirements.txt uwu.
+1. Amanda Salinas
+2. Bruno Martinez
+3. Javier Norambuena
