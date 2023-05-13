@@ -1,6 +1,6 @@
 # Repositorio de tareas INF398, primer semestre 2023
 
-Grupo: Start up 2: más Start up que nunca
+Grupo: **"Start up 2: más Start up que nunca"**
 
 Integrantes:
 1. Amanda Salinas
